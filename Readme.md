@@ -4,7 +4,7 @@
 * Nguyễn Văn Quốc : 18DH110910
 ##  Mô tả đề tài:
 <ul>
-    <li> Ứng dụng giúp người dùng cập nhật thông tin thời tiết trong ngày và trong tuần </li>
+    <li> Ứng dụng giúp người dùng xem thông tin thời tiết trong 5 ngày tính từ thời điểm hiện tại </li>
+    <li>Ứng dụng giúp người dùng xem thông tin thời tiết trong 12 tính từ thời điểm hiện tại </li>
     <li> Xem thời tiết ở vị trí hiện tại qua định vị GPS </li>
-    <li> Thông báo mang ô , áo khoác </li>
 </ul>
